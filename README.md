@@ -12,7 +12,7 @@ You can simply use `pip` (or any similar package manager) for installation:
 
     pip install bcubed
 
-or, if you prefer a local user installation:
+or, if you prefer a local user installation: 
 
     pip install --user bcubed
 
